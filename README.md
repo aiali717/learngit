@@ -1,2 +1,2 @@
-# learngit-
+# learngit
 this is a simple test
